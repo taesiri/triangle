@@ -1,0 +1,14 @@
+{
+  "name": "triangle",
+  "description": "An OpenGL classic triangle sample",
+  "authors": ["MSK"],
+  "homepage": "https://github.com/taesiri/triangle",
+  "license": "",
+  "targetType": "executable",
+  "mainSourceFile": "app.d",
+  "sourcePaths": ["."],
+  "dependencies": {
+    "derelict-glfw3": "~master",
+    "derelict-gl3": "~master"
+  }
+}
